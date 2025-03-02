@@ -45,7 +45,7 @@ Sistema completo de **organização pessoal e empresarial**, criado para central
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/luisfilipe1236/braintow.git
 
 # 2. Acesse a pasta do projeto
 cd aprohfy
